@@ -1,7 +1,7 @@
 {
-  "name": "quales course management-app-e2e-tests",
+  "name": "quales-website-revamp",
   "version": "2.2.0",
-  "description": "This project is to test features on the quales course management web client.",
+  "description": "This project is to test features on the quales website.",
   "main": "index.js",
   "scripts": {
     "test:locally:headless": "npx cypress run",
@@ -19,7 +19,7 @@
     "cypress",
     "cucumber"
   ],
-  "author": "Ayobami Elutade",
+  "author": "Bassey Edoho",
   "license": "ISC",
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^20.0.1",
